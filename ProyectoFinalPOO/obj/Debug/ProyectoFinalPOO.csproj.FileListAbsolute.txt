@@ -1,0 +1,17 @@
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\bin\Debug\ProyectoFinalPOO.exe.config
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\bin\Debug\ProyectoFinalPOO.exe
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\bin\Debug\ProyectoFinalPOO.pdb
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\bin\Debug\Interop.WMPLib.dll
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\ProyectoFinalPOO.csproj.AssemblyReference.cache
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\ProyectoFinalPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\Interop.WMPLib.dll
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\ProyectoFinalPOO.csproj.ResolveComReference.cache
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\ProyectoFinalPOO.Form1.resources
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\ProyectoFinalPOO.Properties.Resources.resources
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\ProyectoFinalPOO.csproj.GenerateResource.cache
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\ProyectoFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\ProyectoFinalPOO.exe
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\ProyectoFinalPOO.pdb
+C:\Users\darth\Music\OneDrive\DIMI\UNITEC\UNITEC UNI\Cuatri 6\POO\ProyectoFinalPOO\obj\Debug\ProyectoFinalPOO.Nivel_1.resources
